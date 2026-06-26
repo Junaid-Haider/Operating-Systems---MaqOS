@@ -1,0 +1,14 @@
+# Compiled binaries (rebuilt via `make`)
+bin/
+*.o
+*.out
+
+
+# Old development scratch folder
+cpp files/
+
+# Runtime-generated files
+maqos_system.log
+maqos_debug.log
+maqos_notepad_save.txt
+*.log
